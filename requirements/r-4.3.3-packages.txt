@@ -1,0 +1,8 @@
+dplyr
+ggplot2
+lme4
+lmerTest
+patchwork
+redres
+readr
+tidyr

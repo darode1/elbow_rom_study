@@ -1,0 +1,11 @@
+boot
+cccrm
+dplyr
+ggplot2
+lme4
+lmerTest
+MuMIn
+methodcompare
+patchwork
+readr
+tidyr
